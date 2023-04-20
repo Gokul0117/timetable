@@ -15,7 +15,8 @@ Execute the program
 
 # CODE
 
-```<!DOCTYPE html>
+```html
+<!DOCTYPE html>
 <html lang="en">
 <head>
 <title>Slot Timetable</title>
